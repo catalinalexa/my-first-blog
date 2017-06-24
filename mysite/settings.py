@@ -25,7 +25,7 @@ SECRET_KEY = 'uaoie&evh$4_+0_#+*p&8j2muwy@pl55gqaicg=a(ifj=wnqr('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', catalinalexa.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'catalinalexa.pythonanywhere.com']
 
 
 # Application definition
